@@ -1,0 +1,7 @@
+C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\WCFRecap\bin\Debug\WCFRecap.dll.config
+C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\WCFRecap\bin\Debug\WCFRecap.dll
+C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\WCFRecap\bin\Debug\WCFRecap.pdb
+C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\WCFRecap\obj\Debug\WCFRecap.csprojResolveAssemblyReference.cache
+C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\WCFRecap\obj\Debug\WCFRecap.csproj.CoreCompileInputs.cache
+C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\WCFRecap\obj\Debug\WCFRecap.dll
+C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\WCFRecap\obj\Debug\WCFRecap.pdb
