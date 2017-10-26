@@ -5,3 +5,10 @@ C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\Client\o
 C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
 C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\Client\obj\Debug\Client.exe
 C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\Client\obj\Debug\Client.pdb
+\\Mac\AllFiles\Volumes\Sekundær\Dokumenter\Git - Projekter\Gruppe4\WCFRecap\Client\bin\Debug\Client.exe.config
+\\Mac\AllFiles\Volumes\Sekundær\Dokumenter\Git - Projekter\Gruppe4\WCFRecap\Client\bin\Debug\Client.exe
+\\Mac\AllFiles\Volumes\Sekundær\Dokumenter\Git - Projekter\Gruppe4\WCFRecap\Client\bin\Debug\Client.pdb
+\\Mac\AllFiles\Volumes\Sekundær\Dokumenter\Git - Projekter\Gruppe4\WCFRecap\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+\\Mac\AllFiles\Volumes\Sekundær\Dokumenter\Git - Projekter\Gruppe4\WCFRecap\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+\\Mac\AllFiles\Volumes\Sekundær\Dokumenter\Git - Projekter\Gruppe4\WCFRecap\Client\obj\Debug\Client.exe
+\\Mac\AllFiles\Volumes\Sekundær\Dokumenter\Git - Projekter\Gruppe4\WCFRecap\Client\obj\Debug\Client.pdb

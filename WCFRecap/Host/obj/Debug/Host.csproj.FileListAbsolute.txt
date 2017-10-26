@@ -8,3 +8,5 @@ C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\Host\obj
 C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
 C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\Host\obj\Debug\Host.exe
 C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\Host\obj\Debug\Host.pdb
+\\Mac\AllFiles\Volumes\Sekundær\Dokumenter\Git - Projekter\Gruppe4\WCFRecap\Host\obj\Debug\Host.exe
+\\Mac\AllFiles\Volumes\Sekundær\Dokumenter\Git - Projekter\Gruppe4\WCFRecap\Host\obj\Debug\Host.pdb
