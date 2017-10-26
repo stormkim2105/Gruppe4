@@ -1,0 +1,7 @@
+C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\Client\bin\Debug\Client.exe.config
+C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\Client\bin\Debug\Client.exe
+C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\Client\bin\Debug\Client.pdb
+C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\Client\obj\Debug\Client.exe
+C:\Users\Storm\Desktop\Datamatiker\3. semester\Projekt\Gruppe4\WCFRecap\Client\obj\Debug\Client.pdb
