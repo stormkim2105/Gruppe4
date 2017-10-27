@@ -44,4 +44,5 @@ namespace Semesterprojekt
             set { stringValue = value; }
         }
     }
+    //hej
 }
